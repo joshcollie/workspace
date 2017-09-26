@@ -7,8 +7,10 @@ Configuration files for quick deployment of a working environment.
 * Brew
 * Git
 * Golang
-* React Native
+* Opera
 * Sass
+* Sketch
+* Xcode command line tools
 
 ## Configurations
 * One Dark terminal theme

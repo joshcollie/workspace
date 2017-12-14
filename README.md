@@ -4,8 +4,9 @@ Configuration files for quick deployment of a working environment.
 
 ## Installation
 Run the command
-
-`bash <(curl -fsSL https://raw.githubusercontent.com/joshcollie/workspace/master/initialise.sh)`
+```
+bash <(curl -fsSL https://raw.githubusercontent.com/joshcollie/workspace/master/initialise.sh)
+```
 
 ## Software installed
 * Atom

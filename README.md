@@ -8,14 +8,19 @@ bash <(curl -fsSL https://raw.githubusercontent.com/joshcollie/workspace/master/
 ```
 
 ## Software installed
-* Atom
+* Atom (and required packages)
 * Brew
 * Cask
 * Figma
+* Firefox
 * Git
 * Golang
+* Passgo
+* Postgres
+* Postico
 * Sass
 * Sketch
+* SourceTree
 * Xcode command line tools
 
 ## Configurations

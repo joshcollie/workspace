@@ -32,11 +32,14 @@ go get github.com/ejcx/passgo
 # Install Postgres
 brew install postgres
 
-# Install Postgres
+# Install Postico
 brew cask install postico
 
 # Install Sass
 gem install sass
+
+# Install Sourcetree
+brew cask install sourcetree
 
 # Install Sketch
 brew cask install sketch

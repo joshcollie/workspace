@@ -11,7 +11,6 @@ brew update
 # Install Atom
 brew install caskroom/cask/brew-cask
 brew cask install atom
-
 ## Install Atom packages
 apm install atom-beautify go-plus sass-autocompile
 
@@ -26,7 +25,7 @@ brew install git
 
 # Install Go
 brew install go --cross-compile-common
-# Install Go based applications
+## Install Go based applications
 go get github.com/ejcx/passgo
 
 # Install Postgres

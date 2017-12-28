@@ -35,7 +35,7 @@ brew install postgres
 brew cask install postico
 
 # Install Sass
-gem install sass
+brew install sass
 
 # Install Sourcetree
 brew cask install sourcetree

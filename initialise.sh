@@ -28,6 +28,9 @@ brew install go --cross-compile-common
 ## Install Go based applications
 go get github.com/ejcx/passgo
 
+# Install Hugo
+brew install hugo
+
 # Install Postgres
 brew install postgres
 

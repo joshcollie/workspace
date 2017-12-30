@@ -31,6 +31,9 @@ go get github.com/ejcx/passgo
 # Install Hugo
 brew install hugo
 
+# Install ImageOptim
+brew cask install imageoptim
+
 # Install Postgres
 brew install postgres
 

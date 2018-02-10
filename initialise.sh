@@ -51,3 +51,6 @@ brew cask install sourcetree
 
 # Install Sketch
 brew cask install sketch
+
+# Install Skype
+brew cask install skype

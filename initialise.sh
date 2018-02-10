@@ -8,6 +8,9 @@ xcode-select --install
 # Update Homebrew packages
 brew update
 
+# Install CU
+brew tap buo/cask-upgrade
+
 # Install Atom
 brew install caskroom/cask/brew-cask
 brew cask install atom

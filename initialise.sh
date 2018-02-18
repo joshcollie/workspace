@@ -17,6 +17,9 @@ brew cask install atom
 ## Install Atom packages
 apm install atom-beautify go-plus sass-autocompile
 
+# Install Delve
+brew install delve
+
 # Install Figma
 brew cask install figma
 

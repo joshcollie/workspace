@@ -57,3 +57,6 @@ brew cask install sketch
 
 # Install Skype
 brew cask install skype
+
+# Install VSCode
+brew cask install vscode

@@ -11,18 +11,6 @@ brew update
 # Install CU
 brew tap buo/cask-upgrade
 
-# Install Atom
-brew install caskroom/cask/brew-cask
-brew cask install atom
-## Install Atom packages
-apm install atom-beautify go-plus sass-autocompile
-
-# Install Delve
-brew install delve
-
-# Install Figma
-brew cask install figma
-
 # Install Firefox
 brew cask install firefox
 
@@ -34,17 +22,8 @@ brew install go --cross-compile-common
 ## Install Go based applications
 go get github.com/ejcx/passgo
 
-# Install Hugo
-brew install hugo
-
 # Install ImageOptim
 brew cask install imageoptim
-
-# Install Postgres
-brew install postgres
-
-# Install Postico
-brew cask install postico
 
 # Install Sass
 brew install sass
@@ -55,8 +34,9 @@ brew cask install sourcetree
 # Install Sketch
 brew cask install sketch
 
-# Install Skype
-brew cask install skype
-
 # Install VSCode
 brew cask install vscode
+
+# Additional software you may wish to install later
+# Postgres: postgres
+# Postico: postico

@@ -19,17 +19,9 @@ brew install git
 
 # Install Go
 brew install go --cross-compile-common
-## Install Go based applications
-go get github.com/ejcx/passgo
 
 # Install ImageOptim
 brew cask install imageoptim
-
-# Install Sass
-brew install sass
-
-# Install Sourcetree
-brew cask install sourcetree
 
 # Install Sketch
 brew cask install sketch
